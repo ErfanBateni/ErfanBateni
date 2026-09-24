@@ -1,47 +1,32 @@
 <div align="center">
-  <h1>⚡ Erfan Bateni</h1>
-  <p><b>M.Sc. Student in Electrical Engineering (Control Systems)</b></p>
-  <p><i>Bridging Advanced Control Theory, Autonomous Driving, and Probabilistic AI</i></p>
+  <h1 style="color: #4a90e2;">Control Systems Engineer</h1>
 </div>
 
----
+### 👋 About me
 
-### 🔬 Current Focus & Highlighted Research
-My academic and professional focus lies in robust motion planning, nonlinear control systems, and reinforcement learning. I build reliable architectures for autonomous systems operating in unpredictable environments.
+I am Erfan Bateni, a control engineering graduate student at Sharif University of Technology, focusing on robust control theory and autonomous systems.
 
-🏆 **[Reliable Motion Planning for Autonomous Driving]**
-* **Domain:** Autonomous Vehicles & Robust Control
-* **Core Tech:** MATLAB Automated Driving Toolbox, Active Disturbance Rejection Control (ADRC), Frenet Trajectory Planning.
-* **Status:** Manuscript under review at *Vehicle System Dynamics*.
-* **Focus:** Designing a highly reliable motion planning framework that integrates ADRC to effectively handle severe external disturbances and internal dynamic uncertainties, ensuring safe autonomous navigation.
+* 🔭 Working on reliable motion planning frameworks for autonomous driving.
+* 🌱 Deepening my skills in ADRC, Reinforcement Learning, and Computer Vision.
+* 📬 Reach out via [LinkedIn](#) or your.email@ee.sharif.edu
+* 🌐 Explore my work on [Google Scholar](#) or my repositories.
 
----
+### 📚 Research Interests
 
-### 🚀 Project Portfolio
+![Autonomous Vehicles](https://img.shields.io/badge/Autonomous_Vehicles-0052cc?style=flat-square)
+![Robust Control](https://img.shields.io/badge/Robust_Control-172b4d?style=flat-square)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-ff991f?style=flat-square)
+![Motion Planning](https://img.shields.io/badge/Motion_Planning-00875a?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-de350b?style=flat-square)
 
-#### 🚗 Autonomous Systems & Advanced Control
-*   **[Modern Control: Four-Tank System Benchmark](https://github.com/ErfanBateni/modern-control-four-tank-system):** MIMO modeling, LQR optimization, and Full/Reduced-Order Luenberger observer design with rigorous parameter variation robustness analysis.
-*   **[Vehicle Dynamics & Powertrain Simulation](https://github.com/ErfanBateni/vehicle-dynamics-acceleration-simulink):** High-fidelity Simulink modeling of longitudinal dynamics, multi-gear shift scheduling, and aerodynamic drag constraints.
-*   **[ABS Slip Control Automation](https://github.com/ErfanBateni/abs-braking-system-simulation):** Optimal braking force control strategies maximizing tire-road friction coefficients using targeted slip-ratio maintenance.
+### 🛠️ Skills & Tools
 
-#### 🧠 Reinforcement Learning & Probabilistic Modeling
-*   **[Two-Link Reacher: RL vs. Classical Control](https://github.com/ErfanBateni/two-link-reacher-rl-control):** Continuous-time dynamics control comparing Deep Deterministic Policy Gradient (DDPG) with OU exploration noise against traditional IK+PD controllers.
-*   **[Bayesian Neural Networks (BNN)](https://github.com/ErfanBateni/bayesian-neural-networks):** Advanced uncertainty quantification for predictive modeling utilizing MC Dropout, MCMC, and Hamiltonian Monte Carlo (HMC/NUTS).
+**Core Languages** <br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-e2000f?style=for-the-badge)
 
-#### 💻 Algorithm Engineering & Signal Processing
-*   **[Scalable Search Engine Architecture](https://github.com/ErfanBateni/scalable-search-engine-data-structures):** Engineered for massive datasets using stream processing, inverted index gap compression, and Web-Graph SCC analysis (Tarjan/Kosaraju).
-*   **[ESPRIT DOA Estimation](https://github.com/ErfanBateni/esprit-doa-estimation):** Subspace-based signal processing implementation for high-resolution Direction of Arrival (DOA) estimation.
-
----
-
-### 🛠️ Tech Stack & Tools
-**Languages:** Python, MATLAB, C/C++  
-**AI & Machine Learning:** PyTorch, PyMC, OpenAI Gymnasium, Scikit-learn  
-**Control & Simulation:** Simulink, Automated Driving Toolbox, State Estimation (Kalman Filters, Observers)  
-**Workflow:** Git, Linux, LaTeX  
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErfanBateni&show_icons=true&theme=transparent&hide_border=true&title_color=0066cc&icon_color=0066cc&text_color=333333" alt="Erfan's GitHub Stats" />
-</div>
+**Frameworks & Environments** <br>
+![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
