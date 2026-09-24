@@ -36,7 +36,7 @@ I am a control engineering graduate student at Sharif University of Technology, 
 
 #### 💻 Algorithm Engineering & Signal Processing
 *   **[Search engine indexer and graph](https://github.com/ErfanBateni/search-engine-indexer-and-graph):** Engineered for massive datasets using stream processing, inverted index gap compression, and Web-Graph SCC analysis.
-*   **[Radio frequency source localization using ESPRIT algorithm](https://github.com/ErfanBateni/Radio-frequency-source-localization-using-ESPRIT-algorithm):** Subspace-based signal processing implementation for high-resolution Direction of Arrival (DOA) estimation.
+*   **[Radio frequency source localization using ESPRIT algorithm](https://github.com/ErfanBateni/Radio-frequency-source-localization-using-ESPRIT-algorithm.):** Subspace-based signal processing implementation for high-resolution Direction of Arrival (DOA) estimation.
 
 ---
 
