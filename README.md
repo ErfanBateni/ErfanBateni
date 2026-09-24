@@ -35,7 +35,7 @@ I am a control engineering graduate student at Sharif University of Technology, 
 *   **[Bayesian Neural Networks (BNN)](https://github.com/ErfanBateni/bayesian-neural-networks):** Advanced uncertainty quantification for predictive modeling utilizing MC Dropout, MCMC, and Hamiltonian Monte Carlo (HMC/NUTS).
 
 #### 💻 Algorithm Engineering & Signal Processing
-*   **[Scalable Search Engine Architecture](https://github.com/ErfanBateni/scalable-search-engine-data-structures):** Engineered for massive datasets using stream processing, inverted index gap compression, and Web-Graph SCC analysis.
+*   **[Search engine indexer and graph](https://github.com/ErfanBateni/search-engine-indexer-and-graph):** Engineered for massive datasets using stream processing, inverted index gap compression, and Web-Graph SCC analysis.
 *   **[ESPRIT DOA Estimation](https://github.com/ErfanBateni/esprit-doa-estimation):** Subspace-based signal processing implementation for high-resolution Direction of Arrival (DOA) estimation.
 
 ---
