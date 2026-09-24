@@ -11,7 +11,6 @@ I am a control engineering graduate student at Sharif University of Technology, 
 * 🔭 Working on reliable motion planning frameworks for autonomous driving (ADRC, Frenet Trajectory Planning).
 * 🌱 Deepening my skills in Reinforcement Learning, Computer Vision, and Nonlinear Control.
 * 📬 Reach out via [LinkedIn](#) or sme.bateni@ee.sharif.edu
-* 🌐 Explore my projects and research implementations below.
 
 ### 📚 Research Interests
 
